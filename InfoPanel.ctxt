@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InfoPanel
+comment0.text=\n\ Display\ the\ information\ of\ the\ program.\n\n\ @Destiny\ Zhu,\ Melory\ So,\ Coco\ Kneer\n\ @05/15/2018\n
+comment1.params=
+comment1.target=InfoPanel()
+comment1.text=\n\ Constructor\:\ creates\ the\ panel.\n
+numComments=2

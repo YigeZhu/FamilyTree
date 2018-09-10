@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TreePanel
+comment0.text=\n\ Represents\ the\ TreePanel\ in\ FamilyTree\ program.\n\n\ @Destiny\ Zhu,\ Coco\ Kneer,\ Melory\ So\n\ @05/17/2018\n
+comment1.params=family
+comment1.target=TreePanel(Family)
+comment1.text=\n\ Constructor\n\ @param\ a\ Family\ collection\n
+numComments=2

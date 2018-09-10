@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DisplayTree
+comment0.text=\n\ A\ customized\ JCompenent\ that\ takes\ a\ FamilyMember\ collection\ and\ draws\ a\ tree\n\ according\ to\ it.\n
+comment1.params=family
+comment1.target=DisplayTree(Family)
+comment1.text=\n\ Constructor\n\ @param\ Family\n
+comment2.params=g1\ x1\ y1\ x2\ y2
+comment2.target=void\ drawArrow(java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment2.text=\n\ Helper\ method\ that\ draws\ an\ arrow\ using\ the\ coordinates\ user\ input.\n\ @param\ Graphics\ g1,\ int\ x1,\ int\ y1,\ int\ x2,\ int\ y2\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\n\ Draws\ the\ tree.\n
+numComments=4

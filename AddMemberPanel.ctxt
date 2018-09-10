@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AddMemberPanel
+comment0.text=\n\ Represents\ the\ AddMember\ panel\ for\ the\ FamilyTree\ program.\n\n\ @Destiny\ Zhu,\ Melory\ So,\ Coco\ Kneer\n\ @05/15/2018\n
+comment1.params=family
+comment1.target=AddMemberPanel(Family)
+comment1.text=\n\ Constructor\:\ creates\ the\ panel.\n
+comment2.params=bMonth
+comment2.target=int\ bMonthConversion(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
